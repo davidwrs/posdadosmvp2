@@ -1,0 +1,5 @@
+Repositório no GitHub
+https://github.com/davidwrs/posdadosmvp2
+
+Notebook no Google Colab (Drive)
+https://colab.research.google.com/drive/1kJi1BNpriWCNsnUX79STXVb1Dden_rUe?usp=sharing
